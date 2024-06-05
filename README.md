@@ -1,7 +1,7 @@
 
 # Programación Fácil - Volumen 1
 
-¡Bienvenido al repositorio oficial del ebook "Programación Fácil - Volumen 1"! Este ebook está diseñado para estudiantes de nivel secundario y universitarios de 1° y 2° año de carreras de informática. Aquí encontrarás una colección de 50 algoritmos fáciles, cada uno con su respectiva pregunta, caso de prueba, resolución y explicación, implementados en cuatro lenguajes de programación: C#, Java, PHP y Python.
+¡Bienvenido al repositorio oficial del ebook "Programación Fácil - Volumen 1"! Este ebook está diseñado para personas que deseen aprender e iniciar en el maravilloso mundo de la Programación. Aquí encontrarás una colección de 50 algoritmos fáciles, cada uno con su respectiva pregunta, caso de prueba, resolución y explicación, implementados en cuatro lenguajes de programación: C#, Java, PHP y Python.
 
 ## Contenido del Repositorio
 
